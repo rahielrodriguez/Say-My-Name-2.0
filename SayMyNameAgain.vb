@@ -1,13 +1,13 @@
 ﻿'Rahiel Rodriguez
 'RCET 2265
-'Say My Name Better
+'Say My Name Again
 'Spring 2024
 'https://github.com/rahielrodriguez/SayMyName2.0.git
 
 Option Explicit On
 Option Strict On
 
-Module SayMyNameBetter
+Module SayMyNameAgain
 
     Sub Main()
 
@@ -27,7 +27,7 @@ Module SayMyNameBetter
             Console.WriteLine("Welcome to this program.")
         End If
 
-            Console.Read()
+        Console.Read()
     End Sub
 
 End Module
